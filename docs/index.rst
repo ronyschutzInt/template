@@ -6,6 +6,8 @@
 Welcome to Read the Docs Template's documentation!
 ==================================================
 
+Hello World!
+
 Contents:
 
 .. toctree::
